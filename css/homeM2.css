@@ -20,7 +20,7 @@ body{
 }
 
 .audio{
-    top: 100%;
+     margin-top: 420px;
     margin-left: 270px;
     position: absolute;
 }
